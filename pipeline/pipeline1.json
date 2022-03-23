@@ -55,7 +55,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "my_new_container_dataset",
+						"referenceName": "DelimitedText2",
 						"type": "DatasetReference"
 					}
 				]
